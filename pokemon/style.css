@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+.container{
+    background-color: white;
+}
+.output{
+    display: flexbox;
+    height: 30%;
+}
